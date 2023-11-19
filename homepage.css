@@ -1,7 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
     background-color: black;
 }
 
@@ -76,6 +75,24 @@ section {
 }
 
 .infohead {
-    font-size:xx-large;
+    font-size:55px;
     font-family: 'Amatic SC', sans-serif;
+}
+
+.infobrief {
+    font-size:large;
+    font-family: 'Rubik', sans-serif;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.footer { 
+    background-color: white;
+    color: black;
+    font-family: 'Ruda', sans-serif;
+    font-size: large;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 0px;
+
 }
