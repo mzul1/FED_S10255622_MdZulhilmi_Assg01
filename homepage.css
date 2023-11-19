@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+}
+
+.navbar {
+    background-color: rgb(0, 0, 0)000;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+nav {
+    font-family: 'Sulphur Point', sans-serif;
+    font-size: large;
+    text-align: right;
+    margin-left: 950px
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.bandlogo {
+    width: 100px;
+    height: 90px;
+    display: block;
+    margin-left: 20px;
+}
+
+.bandpic1 {
+    width: 1520px;
+    height: 700px;
+    background-color: black;
+}
+
+
+top-bar {
+    background-color: #050505;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+top-bar h1 {
+    margin: 0;
+}
+
+nav {
+    float: right;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
+section {
+    padding: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.infohead {
+    font-size:xx-large;
+    font-family: 'Amatic SC', sans-serif;
+}
