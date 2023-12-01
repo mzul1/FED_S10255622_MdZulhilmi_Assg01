@@ -1,4 +1,4 @@
-# FED Assignemnt 01 AD2023
+# FED Assignment 01 AD2023
 
 # Design Process
 ### Idea Chosen: Project Idea 1
