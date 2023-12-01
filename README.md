@@ -1,7 +1,7 @@
 # FED Assignemnt 01 AD2023
 
 # Design Process
-## Idea Chosen: Project Idea 1
+### Idea Chosen: Project Idea 1
 ### Band Choice: Kessoku Band (Fictional)
 
 ### Website caters to fans of Kessoku Band, allowing them to:
