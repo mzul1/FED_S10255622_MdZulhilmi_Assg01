@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Rubik&family=Ruda:wght@500&family=Sulphur+Point:wght@700&display=swap" rel="stylesheet">
+    
+    <title>Kessoku Band</title>
+    <link rel="stylesheet" href="..\css\normalize.css">
+    <link rel="stylesheet" href="..\css\style.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="container1">
+        <nav class="bandlogo">
+            <a href="../html/index.html">
+            <img class="bandlogo" src="..\images\Kessoku_Band_Logo.png" alt="Band Logo">
+            </a>
+        </nav>
+        <nav class="pageopt">
+            <a href="../html/aboutus.html">About Us</a>
+            <a href="../html/ticket.html">Tickets</a>
+            <a href="../html/gallery.html">Gallery</a>
+        </nav>
+        </div>
+    </header>
+
+    <img class="bandpic1" src="..\images\KBand2.png" alt="Band image">
+
+    <section>
+        <h1 class="infohead">About Us</h1>
+        <p class="infobrief1">"We are Kessoku Band, a four-piece rock band from Japan. We formed out of a shared love of music and a desire to express ourselves through our art. We are all very different people with our own unique personalities and quirks, but we come together as one when we play music.</p>
+        <p class="infobrief1">Hitori Gotō, our lead guitarist and vocalist, is a bit of a recluse, but she has an incredible talent for playing guitar and singing. She's also a very kind and caring person, and we're all grateful to have her in our band.</p>
+        <p class="infobrief1">Nijika Ijichi, our drummer, is the life of the party. She's always positive and upbeat, and she has a way of making everyone around her feel happy. She's also a very talented drummer, and she keeps us all on beat.</p>
+        <p class="infobrief1">Ryō Yamada, our bassist, is the cool and collected one. She's always calm and collected, and she has a way of solving any problem that comes our way. She's also a very talented bassist, and she provides the solid foundation for our band's sound.</p>
+        <p class="infobrief1">Ikuyo Kita, our keyboardist, is a bit shy, but she's a genius when it comes to music and technology. She can create amazing soundscapes with her keyboard, and she's always coming up with new and innovative ideas.</p>
+        <p class="infobrief1"> We've all had our struggles, but we've learned to overcome them together. We've learned to support each other and to believe in ourselves. We've learned that music is more than just playing notes and singing words. It's about expressing ourselves, connecting with others, and sharing our passion with the world.</p>
+        <p class="infobrief1"> We're so grateful for the opportunity to make music together. It's something that we're all passionate about, and we can't imagine our lives without it. We hope that our music can touch the lives of others and make them feel happy, inspired, and connected.</p>
+        <p class="infobrief1"> Thank you for listening to our music! We hope you'll continue to follow us on our musical journey!</p>
+            
+    </section>
+
+    <h1 class="memberhead">Meet The Members!</h1>
+
+    <section class="members">
+        <button class="member1" onclick="openPopup1()">
+            <img src ="..\images\bocchi.png" alt="Gotoh Hitori (Bocchi)">
+        </button>
+        <div id="member1">
+            <span id="close-btn" onclick="closePopup1()">&times;</span>
+            <h2>BOCCHI!</h2>
+            <p>Our introverted guitarist!</p>
+            <p>Real name: Gotoh Hitori</p>
+            <p>Age: 15-16</p>
+        </div>
+        <button class="member2"  onclick="openPopup2()">
+            <img src ="..\images\ryo.png" alt="Yamada Ryou">
+        </button>
+        <div id="member2">
+            <span id="close-btn" onclick="closePopup2()">&times;</span>
+            <h2>RYOU!</h2>
+            <p>Our mischievious bassist</p>
+            <p>Real name: Yamada Ryou</p>
+            <p>Age: 16-17</p>
+        </div>
+        <button class="member3"  onclick="openPopup3()">
+            <img src ="..\images\nijika.png" alt="Nijika Ijichi">
+        </button>
+        <div id="member3">
+            <span id="close-btn" onclick="closePopup3()">&times;</span>
+            <h2>NIJIKA!</h2>
+            <p>Our enthusiastic drummer!</p>
+            <p>Real name: Nijika Ijichi</p>
+            <p>Age: 16-17</p>
+        </div>
+        <button class="member4"  onclick="openPopup4()">
+            <img src ="..\images\kita.png" alt="Ikuyo Kita">
+        </button>
+        <div id="member4">
+            <span id="close-btn" onclick="closePopup4()">&times;</span>
+            <h2>KITA!</h2>
+            <p>Our cheerful singer!</p>
+            <p>Real name: Ikuyo Kita</p>
+            <p>Age: 15-16</p>
+        </div>
+
+    </section>
+
+    <div class="music-container">
+        <audio id="backgroundMusic" loop>
+            <source src="..\music\that_band.mp3" type="audio/mp3">
+            Your browser does not support the audio tag.
+        </audio>
+        <button onclick="changeImage()" class="toggleButton">
+            <img src="..\images\music.png" alt="mutebutton" class="mute">
+        </button>
+    </div>
+
+    <footer class="footer">
+        <p class="footerinfo">2023 Kessoku Band. All rights reserved.</p>
+        <nav class="socialmedia">
+            <a href="https://www.instagram.com/bocchi.daily/?hl=en" class="socialmedia">
+                <img src="..\images\instagram.png" alt="Instagram Logo" class="instagram">
+                Our Instagram
+            </a>
+            <a href="https://twitter.com/dailykessoku" class="socialmedia">
+                <img src="..\images\twitter.png" alt="X Logo" class="X">
+                Our X/Twitter
+            </a>
+        </nav>
+    </footer>
+
+    <script src="..\js\about.js"></script>
+</body>
+</html>
