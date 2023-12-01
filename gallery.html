@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Rubik&family=Ruda:wght@500&family=Sulphur+Point:wght@700&display=swap" rel="stylesheet">
+    
+    <title>Kessoku Band</title>
+    <link rel="stylesheet" href="..\css\normalize.css">
+    <link rel="stylesheet" href="..\css\style.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="container1">
+        <nav class="bandlogo">
+            <a href="../html/index.html">
+            <img class="bandlogo" src="..\images\Kessoku_Band_Logo.png" alt="Band Logo">
+            </a>
+        </nav>
+        <nav class="pageopt">
+            <a href="../html/aboutus.html">About Us</a>
+            <a href="../html/ticket.html">Tickets</a>
+            <a href="../html/gallery.html">Gallery</a>
+        </nav>
+        </div>
+    </header>
+
+    <img class="bandpic1" src="..\images\KBand5.png" alt="Band image">
+
+    <div class="container">
+        <p>-</p>
+        <h2>GALLERY</h2>
+        
+        <ul>
+            <li class="category active" data-filter="all">All</li>
+            <li class="category" data-filter="concerts">Concerts</li>
+            <li class="category" data-filter="pics">Band Pictures</li>
+            <li class="category" data-filter="rehearsal">Rehearsal</li>
+            <li class="category" data-filter="thumbnails">Thumbnails</li>
+        </ul>
+
+        <div class="gallery">
+            <div class="image pics"><img src="../images/KBand3.png" alt=""></div>
+            <div class="image rehearsal"><img src="../images/KBand8.png" alt=""></div>
+            <div class="image concerts"><img src="../images/Perform4.png" alt=""></div>
+            <div class="image rehearsal"><img src="../images/Perform1.png" alt=""></div>
+            <div class="image thumbnails"><img src="../images/Perform2.png" alt=""></div>
+
+            <div class="image pics"><img src="../images/KBand1.png" alt=""></div>
+            <div class="image concerts"><img src="../images/KBand2.png" alt=""></div>
+            <div class="image thumbnails"><img src="../images/KBand4.png" alt=""></div>
+            <div class="image pics"><img src="../images/KBand3.png" alt=""></div>
+            <div class="image concerts"><img src="../images/Bocchi2.png" alt=""></div>
+            <div class="image pics"><img src="../images/KBand5.png" alt=""></div>
+
+            <div class="image thumbnails"><img src="../images/Ryou2.png" alt=""></div>
+            <div class="image rehearsal"><img src="../images/Perform5.png" alt=""></div>
+            <div class="image concerts"><img src="../images/Perform6.png" alt=""></div>
+            <div class="image thumbnail"><img src="../images/KBand6.png" alt=""></div>
+            <div class="image thumbnails"><img src="../images/KBand7.png" alt=""></div>
+            
+        </div>
+    </div>
+
+    <div class="music-container">
+        <audio id="backgroundMusic" loop>
+            <source src="..\music\nijika.mp3" type="audio/mp3">
+            Your browser does not support the audio tag.
+        </audio>
+        <button onclick="changeImage()" class="toggleButton">
+            <img src="..\images\music.png" alt="mutebutton" class="mute">
+        </button>
+    </div>
+
+    <footer class="footer">
+        <p class="footerinfo">2023 Kessoku Band. All rights reserved.</p>
+        <nav class="socialmedia">
+            <a href="https://www.instagram.com/bocchi.daily/?hl=en" class="socialmedia">
+                <img src="..\images\instagram.png" alt="Instagram Logo" class="instagram">
+                Our Instagram
+            </a>
+            <a href="https://twitter.com/dailykessoku" class="socialmedia">
+                <img src="..\images\twitter.png" alt="X Logo" class="X">
+                Our X/Twitter
+            </a>
+        </nav>
+    </footer>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="../js/gallery.js"></script>
+
+
+</body>
+</html>
