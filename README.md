@@ -1,10 +1,15 @@
 # FED Assignemnt 01 AD2023
 
 # Design Process
-Idea Chosen: Project Idea 1
-Band Choice: Kessoku Band (Fictional)
+## Idea Chosen: Project Idea 1
+### Band Choice: Kessoku Band (Fictional)
 
-Website caters to fans of Kessoku Band, allowing them to view images, information, as well as purchase tickets for future/upcoming Kessoku Band concerts.
+### Website caters to fans of Kessoku Band, allowing them to:
+- Read information of the band, and its members
+- Book tickets for upcoming concerts
+- View band image library/gallery
+- View band's social media pages
+- Listen to band's music
 
 # Features
 ## Feature 1:
