@@ -25,7 +25,7 @@
 ### Filterable Gallery
 - Filter images by selection in **Gallery**
 
-## Feature 4: 
+### Feature 4: 
 ### Background music
 - Floating button to toggle band music
 - Different per page
