@@ -12,18 +12,18 @@
 - Listen to band's music
 
 # Features
-## Feature 1:
+### Feature 1:
 ### A small homepage gallery
-- clickable to view a larger image
+- clickable to view a larger image in **Home**
 
-## Feature 2: 
+### Feature 2: 
 ### Pop-up panel
-- view information of band members
-- booking form for tickets
+- view information of band members in **About Us**
+- booking form for tickets in **Ticket**
 
-## Feature 3: 
+### Feature 3: 
 ### Filterable Gallery
-- Filter images by selection
+- Filter images by selection in **Gallery**
 
 ## Feature 4: 
 ### Background music
