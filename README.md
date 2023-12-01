@@ -26,10 +26,32 @@ Website caters to fans of Kessoku Band, allowing them to view images, informatio
 - Different per page
 - Autoplay was intended, but disallowed by browsers (https://developer.chrome.com/blog/autoplay/)
 
+# Technologies/Work Referenced
+JQuery in filterable image gallery
+(https://www.codingpoweryt.com/2021/09/filterable-image-gallery-using-html-css-and-jquery.html)
+
+Concert ticket layout
+(https://codepen.io/Hubba22/pen/vYYEvLe)
+
+# Testing
+### Only testable element:
+- Form submission in **ticket** page
+
+**All other elements are not subjected to high possibility of error**
+
 # Credits
-Credit to: 
+## Content accredited to:
 Aniplex, Inc. - Bocchi the Rock!
 Kessoku Band is a fictional band from the anime "Bocchi the Rock!"
+
+Bocchi the Rock! Wiki | Fandom 
+(https://bocchi-the-rock.fandom.com/wiki/Bocchi_the_Rock!_Wiki)
+
+OpenAI ChatGPT 
+(https://chat.openai.com)
+
+BardAI
+(https://bard.google.com/chat?utm_source=sem&utm_medium=paid-media&utm_campaign=q4enSG_sem1&gclid=CjwKCAiAgeeqBhBAEiwAoDDhn7ZkRhE9wPs4Ky98mtDKw2RlCIBtdvbtNRSP4zBQGZF9LWlrBZWRWRoCQ_EQAvD_BwE)
 
 ## Music accredited to:
 Aniplex, Inc. - Kessoku Band (Bocchi the Rock!)
