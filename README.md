@@ -7,21 +7,21 @@ Band Choice: Kessoku Band (Fictional)
 Website caters to fans of Kessoku Band, allowing them to view images, information, as well as purchase tickets for future/upcoming Kessoku Band concerts.
 
 # Features
-##Feature 1:
+## Feature 1:
 ###A small homepage gallery
 - clickable to view a larger image
 
-##Feature 2: 
-###Pop-up panel
+## Feature 2: 
+### Pop-up panel
 - view information of band members
 - booking form for tickets
 
-##Feature 3: 
-###Filterable Gallery
+## Feature 3: 
+### Filterable Gallery
 - Filter images by selection
 
-##Feature 4: 
-###Background music
+## Feature 4: 
+### Background music
 - Floating button to toggle band music
 - Different per page
 - Autoplay was intended, but disallowed by browsers (https://developer.chrome.com/blog/autoplay/)
@@ -36,14 +36,26 @@ Aniplex, Inc. - Kessoku Band (Bocchi the Rock!)
 
 ##Images accredited to:
 Aniplex, Inc. - Kessoku Band (Bocchi the Rock!)
-Bocchi the Rock! Wiki | Fandom (https://bocchi-the-rock.fandom.com/wiki/Bocchi_the_Rock!_Wiki)
-Singapore National Stadium (https://www.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Nov2022/20220911_national_stadium_instagram.jpg?itok=Tm-jO1is)
-Suncorp Stadium (https://www.aboveleft.com.au/hospitality/suncorp-stadium-brisbane)
+Bocchi the Rock! Wiki | Fandom 
+(https://bocchi-the-rock.fandom.com/wiki/Bocchi_the_Rock!_Wiki)
+
+Singapore National Stadium 
+(https://www.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Nov2022/20220911_national_stadium_instagram.jpg?itok=Tm-jO1is)
+
+Suncorp Stadium 
+(https://www.aboveleft.com.au/hospitality/suncorp-stadium-brisbane)
 
 ###Other Images (Non official work):
-KBand1.png (https://moewalls.com/wp-content/uploads/2023/03/kessoku-band-live-show-bocchi-the-rock-thumb.jpg)
-KBand2.png (https://moewalls.com/anime/kessoku-band-watching-the-sea-at-night-bocchi-the-rock-live-wallpaper/)
-Music.png (https://pixsector.com/cache/8955ccde/avea0c6d1234636825bd6.png)
-Mute.png (https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mute_Icon.svg/480px-Mute_Icon.svg.png)
+KBand1.png 
+(https://moewalls.com/wp-content/uploads/2023/03/kessoku-band-live-show-bocchi-the-rock-thumb.jpg)
+
+KBand2.png 
+(https://moewalls.com/anime/kessoku-band-watching-the-sea-at-night-bocchi-the-rock-live-wallpaper/)
+
+Music.png 
+(https://pixsector.com/cache/8955ccde/avea0c6d1234636825bd6.png)
+
+Mute.png
+(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mute_Icon.svg/480px-Mute_Icon.svg.png)
 
 
