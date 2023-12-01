@@ -8,7 +8,7 @@ Website caters to fans of Kessoku Band, allowing them to view images, informatio
 
 # Features
 ## Feature 1:
-###A small homepage gallery
+### A small homepage gallery
 - clickable to view a larger image
 
 ## Feature 2: 
@@ -31,10 +31,10 @@ Credit to:
 Aniplex, Inc. - Bocchi the Rock!
 Kessoku Band is a fictional band from the anime "Bocchi the Rock!"
 
-##Music accredited to:
+## Music accredited to:
 Aniplex, Inc. - Kessoku Band (Bocchi the Rock!)
 
-##Images accredited to:
+## Images accredited to:
 Aniplex, Inc. - Kessoku Band (Bocchi the Rock!)
 Bocchi the Rock! Wiki | Fandom 
 (https://bocchi-the-rock.fandom.com/wiki/Bocchi_the_Rock!_Wiki)
@@ -45,7 +45,7 @@ Singapore National Stadium
 Suncorp Stadium 
 (https://www.aboveleft.com.au/hospitality/suncorp-stadium-brisbane)
 
-###Other Images (Non official work):
+### Other Images (Non official work):
 KBand1.png 
 (https://moewalls.com/wp-content/uploads/2023/03/kessoku-band-live-show-bocchi-the-rock-thumb.jpg)
 
